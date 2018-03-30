@@ -77,3 +77,8 @@
 	* Junya Kato, Tsuyoshi Kadota, Mitsuhiro Hatada, and Fumitaka Takeuchi, ``Detection method of malware activity based on the Firewall log,'' Proceedings of the Computer Security Symposium 2009 (CSS2009), pp.1-6, October 2009 (in Japanese).
 	* Toshiaki Sudoh and Mitsuhiro Hatada, ``Examination of attack generation and damage forecast system by multi point decentralized honeypot,'' Proceedings of the Computer Security Symposium 2009 (CSS2009), pp.1-6, October 2009 (in Japanese).
 	* Masato Terada, Yuji Ukai, Ryoji Kanai, Mitsuhiro Hatada, Takahiro Matsuki, and Yuichi Miyagawa, ``P2P network observation using crawling method,'' IPSJ SIG Technical Report, vol.2007-CSEC-037, no.48 pp.51-56, May 2007 (in Japanese).
+
+* Theses and Dissertation
+	* Toward Efficient Incident Handling Triage: Automated Threats Classificationand Data-centric Talent Development (Doctoral dissertation, February 2018)
+	* 音声の生成過程に着目した電子透かしに関する研究  ～G.729 への適用に関する一検討～ (Master's thesis, March 2003)
+	* 音声の発生源に着目した電子透かしに関する研究 (Bachelor's thesis, March 2001)
