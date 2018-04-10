@@ -23,7 +23,11 @@
 
 * Invited Talks
 	* Mitsuhiro Hatada and Takehiro Ozaki, ``[Invited Talk] Cybersecurity Talent Development in NTT Group,'' HITCON Pacific 2017, December 2017.
+	* Mitsuhiro Hatada, ``[Invited Talk] Data-driven Network Security,'' ACM SIGMOD Japan Chapter Meeting, November 2017 (in Japanese).
+	* Mitsuhiro Hatada, ``[Invited Talk] Toward Sustainable Security: Collaboration and Observation,'' Cyber Security Summit, DICT/CISS Phillipines, December 2016.
 	* Mitsuhiro Hatada and Tatsuya Mori, ``[Invited Talk] Analytics of Malware Traffic: Clustering and its Evaluation,'' The Network Security Workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
+	* Mitsuhiro Hatada, ``[Chair] Cyber-range training for reinforcing skills and leadership,'' Interop Tokyo 2016 Premium Conference, June 2016 (in Japanese).
+	* Mitsuhiro Hatada, ``企業における教育の実際〜セキュリティ人材の育成〜'', Internet Week 2015 IP Meeting, November 2015 (in Japanese).
 	* Mitsuhiro Hatada, ``[Invited Talk] Observe and Act against DDoS and Malware,'' 2015 10th Asia Joint Conference on Information Security (AsiaJCIS 2015), May 2015.
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``[Invited Talk] Automatic Generation of URL Blacklist,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``[Invited Talk] Detecting malware-infected hosts using HTTP fingerprints,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
@@ -47,6 +51,8 @@
 	* Mitsuhiro Hatada and Masato Terada, ``A Study of Botnet Activity Analysis using Multiple Monitoring Data,'' Proceedings of the Computer Security Symposium 2008 (CSS2008), pp.1-6, October 2008 (in Japanese).
 	* Mitsuhiro Hatada and Tomohiro Tanaka, ``A study on Distributed Security Countermeasures for Intranet,'' Proceedings of the Computer Security Symposium 2006 (CSS2006), pp.1-6, October 2006 (in Japanese).
 	* Mitsuhiro Hatada, Hirofumi Nakakoji, and Masaya Yamagata, ``Proposal of network operation support system for secure Intranet operation,'' IPSJ SIG Technical Reports, vol.2006-CSEC-032, no.26, pp.135-140, March 2006 (in Japanese).
+	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``A Study on Digital Watermarking Based on Process of Speech Prodcution,'' IPSJ SIG Technical Reports, vol.2002-CSEC-017, pp.37-42, May 2002 (in Japanese).
+	* Mitsuhiro Hatada, Toshiyuki Sakai, Makoto Kondo, and Naohisa Komatsu, ``Digital Watermarking Based on Process of Speech Production Using G.729 Parameter,'' Proceedings of the IEICE General Conference, pp.191, March 2003 (in Japanese).
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Detecting Malware-Infected Hosts Based on the Variability of HTTP Header Fields,'' Proceedings of the Computer Security Symposium 2016 (CSS2016), pp.632-639, October 2016 (in Japanese).
 	* Yuta Takata, Masato Terada, Junichi Murakami, Takahiro Kasama, Katsunari Yoshioka and Mitsuhiro Hatada, ``Datasets for Anti-Malware Research \~MWS Datasets 2016\~,'' IPSJ SIG Technical Report, vol.2016-CSEC-74, no.17, pp.1-8, July 2016 (in Japanese).
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori and Shigeki Goto, ``Feature Analysis of Transmission Activities of Spam E-mail Containing Malware,'' Proceedings of the 2016 IEICE General Conference, vol.2016, no.2, pp.490, March 2016 (in Japanese).
@@ -77,6 +83,7 @@
 	* Junya Kato, Tsuyoshi Kadota, Mitsuhiro Hatada, and Fumitaka Takeuchi, ``Detection method of malware activity based on the Firewall log,'' Proceedings of the Computer Security Symposium 2009 (CSS2009), pp.1-6, October 2009 (in Japanese).
 	* Toshiaki Sudoh and Mitsuhiro Hatada, ``Examination of attack generation and damage forecast system by multi point decentralized honeypot,'' Proceedings of the Computer Security Symposium 2009 (CSS2009), pp.1-6, October 2009 (in Japanese).
 	* Masato Terada, Yuji Ukai, Ryoji Kanai, Mitsuhiro Hatada, Takahiro Matsuki, and Yuichi Miyagawa, ``P2P network observation using crawling method,'' IPSJ SIG Technical Report, vol.2007-CSEC-037, no.48 pp.51-56, May 2007 (in Japanese).
+	* Yasushi Konagai, Makoto Kurihara, Mitsuhiro Hatada, Yasushi Yamazaki, and Naohisa Komatsu, ``A Study on a Digital Watermark Based on Process of Speech Production,'' Proceedings of the IEICE General Conference, pp.208, March 2001 (in Japanese).
 
 * Theses and Dissertation
 	* Toward Efficient Incident Handling Triage: Automated Threats Classificationand Data-centric Talent Development (Doctoral dissertation, February 2018)
