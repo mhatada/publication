@@ -22,7 +22,8 @@
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``Digital watermarking based on process of speech production,’’ Proceedings of the SPIE, Vol. 4861, 258-267, January 2002.
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
 
-* Invited Talks
+* Talks
+	* Mitsuhiro Hatada, ``Building a Red Team in a Global Conglomerate,'' LookingGlass Momentum Summit 2019, October 2019.
 	* Mitsuhiro Hatada and Takehiro Ozaki, ``[Invited Talk] Cybersecurity Talent Development in NTT Group,'' HITCON Pacific 2017, December 2017.
 	* Mitsuhiro Hatada, ``[Invited Talk] Data-driven Network Security,'' ACM SIGMOD Japan Chapter Meeting, November 2017 (in Japanese).
 	* Mitsuhiro Hatada, ``[Invited Talk] Toward Sustainable Security: Collaboration and Observation,'' Cyber Security Summit, DICT/CISS Phillipines, December 2016.
@@ -54,6 +55,7 @@
 	* Mitsuhiro Hatada, Hirofumi Nakakoji, and Masaya Yamagata, ``Proposal of network operation support system for secure Intranet operation,'' IPSJ SIG Technical Reports, vol.2006-CSEC-032, no.26, pp.135-140, March 2006 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``A Study on Digital Watermarking Based on Process of Speech Prodcution,'' IPSJ SIG Technical Reports, vol.2002-CSEC-017, pp.37-42, May 2002 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Makoto Kondo, and Naohisa Komatsu, ``Digital Watermarking Based on Process of Speech Production Using G.729 Parameter,'' Proceedings of the IEICE General Conference, pp.191, March 2003 (in Japanese).
+	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Investigation of Black-Box Based Evasion Attack Method Against Android Malware Classifier,'' Proceedings of the Computer Security Symposium 2019 (CSS2019), pp.xx-xx, October 2019 (in Japanese).
 	* Shoko Araki, Takahiro Kasama, Hiromitsu Oshiba, Daiki Chiba, Mitsuhiro Hatada, Masato Terada, ``Datasets for Anti-Malware Research \~MWS Datasets 2019\~,'' IPSJ SIG Technical Report, vol.2019-CSEC-86, no.8, pp.1-8, July 2019 (in Japanese).
 	* Yuta Takata, Masato Terada, Takahiro Matsuki, Takahiro Kasama, Shoko Araki, Mitsuhiro Hatada, ``Datasets for Anti-Malware Research \~MWS Datasets 2018\~,'' IPSJ SIG Technical Report, vol.2018-CSEC-82, no.38, pp.1-8, July 2018 (in Japanese).
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Detecting Malware-Infected Hosts Based on the Variability of HTTP Header Fields,'' Proceedings of the Computer Security Symposium 2016 (CSS2016), pp.632-639, October 2016 (in Japanese).
