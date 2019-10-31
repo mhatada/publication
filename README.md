@@ -1,6 +1,8 @@
 * Journal Papers
+	* Mitsuhiro Hatada and Tatsuya Mori, ``CLAP: Classification of Android PUAs by Similarity of DNS Queries,'' IEICE Transactions on Information and Systems, vol.xx, no.xx, pp.xx-xx, February 2020. (to appear)
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Finding New Varieties of Malware with the Classification of Network Behavior,'' IEICE Transactions on Information and Systems, vol.E100-D, no.8, pp.1691-1702, August 2017.
 	* Mitsuhiro Hatada, Mitsuaki Akiyama, Takahiro Matsuki, and Takahiro,Kasama, ``Empowering Anti-malware Research in Japan by Sharing the MWS Datasets,'' Journal of Information Processing, vol.23, no.5, pp.579-588, September 2015.
+	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of Malware Infection based on the Similarity between Malware Infected traffic,'' International Journal of informatics Society, vol.xx, no.xx, pp.xx-xx, 2019. (to appear)
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto,``Detecting Malware-infected Devices Using the HTTP Header Patterns,'' IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1370-1379, May 2018.
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``Automating URL Blacklist Generation with Similarity Search Approach,'' IEICE Transactions on Information and Systems, vol.E99-D, no.4, pp.873-882, April 2016.
 	* Masatsugu Ichino, Kenji Kawamoto, Toru Iwano, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Evaluating Header Information Features for Malware Infection Detection,'' Journal of Information Processing, vol.23, no.5, pp.603-612, September 2015.
