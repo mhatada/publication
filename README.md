@@ -20,6 +20,7 @@
 \end{enumerate}
 
 * Posters
+	* Mitsuhiro Hatada and Matthew Scholl, ``Poster: Method for Effective Measurement, Labeling, and Classification of Botnet C2s for Predicting Attacks,'' The Network and Distributed System Security Symposium 2020, February 2020. (to appear)
 	* Mitsuhiro Hatada, Masato Terada, and Tatsuya Mori, ``POSTER: Seven Years in MWS: Experiences of Sharing Datasets with Anti-malware Research Community in Japan,'' Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security, pp.1433-1435, November 2014.
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``Digital watermarking based on process of speech production,’’ Proceedings of the SPIE, Vol. 4861, 258-267, January 2002.
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
