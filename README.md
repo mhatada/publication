@@ -38,6 +38,7 @@
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``[Invited Talk] Detecting malware-infected hosts using HTTP fingerprints,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
 
 * Books
+	* (執筆協力), ``情報セキュリティ白書2021'', 独立行政法人情報処理推進機構, 2021.
 	* 佐々木良一 (監修), 電子情報通信学会 (編集), ``現代電子情報通信選書『知識の森』 ネットワークセキュリティ'', オーム社, 2014.
 	* ＮＴＴコミュニケーションズ インターネット検定委員会ガイドライン策定部会, ``NTTコミュニケーションズ インターネット検定 .com Master ★★★2012公式テキスト'', エヌティティ出版, 2012.
 	* ＮＴＴコミュニケーションズ インターネット検定委員会ガイドライン策定部会, ``NTTコミュニケーションズ インターネット検定 .com Master ★★★2011公式テキスト'', エヌティティ出版, 2011.
