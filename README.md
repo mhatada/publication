@@ -13,7 +13,7 @@
 
 * Conference Papers
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Detecting and Classifying Android PUAs by similarity of DNS queries,'' Proceedings of the 7th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2017), pp.590-595, July 2017.
-	* Shuvo	Bardhan and Mitsuhiro Hatada, ``Evaluation Framework for Netflow-based Network Anomaly Detection Systems using Synthetic Malicious Network Traffic,'' Proceedings of the 12th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2022), pp.xxx-xxx, June 2017 (accepted).
+	* Shuvo	Bardhan and Mitsuhiro Hatada, ``Evaluation Framework for Netflow-based Network Anomaly Detection Systems using Synthetic Malicious Network Traffic,'' Proceedings of the 12th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2022), pp.xxx-xxx, June 2022 (accepted).
 	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of malware infection using traffic models based on the similarity between malware samples,'' Proceedings of the International Workshop on Informatics (IWIN) 2018, pp.95-100, August 2018.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``BotDetector: A robust and scalable approach toward detecting malware-infected devices,'' Proceedings of the IEEE International Conference on Communications (ICC 2017), May 2017.
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``AutoBLG: Automatic URL blacklist generator using search space expansion and filters,'' Proceedings of the 2015 IEEE Symposium on Computers and Communication (ISCC), pp.625-631, July 2015.
