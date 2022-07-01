@@ -13,7 +13,7 @@
 
 * Conference Papers
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Detecting and Classifying Android PUAs by similarity of DNS queries,'' Proceedings of the 7th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2017), pp.590-595, July 2017.
-	* Shuvo	Bardhan and Mitsuhiro Hatada, ``Evaluation Framework for Netflow-based Network Anomaly Detection Systems using Synthetic Malicious Network Traffic,'' Proceedings of the 12th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2022), pp.xxx-xxx, June 2022 (accepted).
+	* Shuvo	Bardhan and Mitsuhiro Hatada, ``Evaluation Framework for Netflow-based Network Anomaly Detection Systems using Synthetic Malicious Network Traffic,'' Proceedings of the 12th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2022), pp.0-0, June 2022.
 	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of malware infection using traffic models based on the similarity between malware samples,'' Proceedings of the International Workshop on Informatics (IWIN) 2018, pp.95-100, August 2018.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``BotDetector: A robust and scalable approach toward detecting malware-infected devices,'' Proceedings of the IEEE International Conference on Communications (ICC 2017), May 2017.
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``AutoBLG: Automatic URL blacklist generator using search space expansion and filters,'' Proceedings of the 2015 IEEE Symposium on Computers and Communication (ISCC), pp.625-631, July 2015.
@@ -57,6 +57,7 @@
 	* Mitsuhiro Hatada, Yasuyuki Tanaka, and Takanori Inazumi, ``A Study on Light-Weight URL Blacklist Generation Based on Sandbox Analysis,'' Proceedings of the Computer Security Symposium 2013 (CSS2013), pp.382-387, October 2013 (in Japanese).
 	* Mitsuhiro Hatada, You Nakatsuru, and Mitsuaki Akiyama, ``Datasets for Anti-Malware Research \\\\~MWS 2011 Datasets\~,'' Proceedings of the Computer Security Symposium 2011 (CSS2011), pp.1-5, October 2011 (in Japanese).
 	* Mitsuhiro Hatada, You Nakatsuru, Masato Terada, and Shinsuke Miwa, ``Datasets for Anti-Malware Research \~MWS 2010 Datasets\~,'' Proceedings of the Computer Security Symposium 2010 (CSS2010), pp.1-5, October 2010 (in Japanese).
+	* Mitsuhiro Hatada, ``Malware: Anti-Malware Engineering WorkShop Using Research Dataset,'' IPSJ Magazine, vol.51, no.3, pp.284-287, March 2010 (in Japanese).
 	* Mitsuhiro Hatada, You Nakatsuru, Masato Terada, and Yoichi Shinoda, ``Dataset for anti-malware research and research achievements shared at the workshop,'' Proceedings of the Computer Security Symposium 2009 (CSS2009), pp.1-8, October 2009 (in Japanese).
 	* Mitsuhiro Hatada and Masato Terada, ``A Study of Botnet Activity Analysis using Multiple Monitoring Data,'' Proceedings of the Computer Security Symposium 2008 (CSS2008), pp.1-6, October 2008 (in Japanese).
 	* Mitsuhiro Hatada and Tomohiro Tanaka, ``A study on Distributed Security Countermeasures for Intranet,'' Proceedings of the Computer Security Symposium 2006 (CSS2006), pp.1-6, October 2006 (in Japanese).
