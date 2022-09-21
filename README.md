@@ -19,7 +19,6 @@
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``AutoBLG: Automatic URL blacklist generator using search space expansion and filters,'' Proceedings of the 2015 IEEE Symposium on Computers and Communication (ISCC), pp.625-631, July 2015.
 	* Kenji Kawamoto, Masatsugu Ichino, Mitsuhiro Hatada, Yusuke Otsuki, Hiroshi Yoshiura, and Jiro Katto, ``An evaluation of secular changes in statistical feature for malware detection,'' Proceedings of the 1st International Workshop on Data Mining for Info-Communication Service and its Diffusion (DMICSiD2012) in SNPD2012, vol.443, pp.1-11, 2013.
 	* Masatsugu Ichino, Yusuke Ohtsuki, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of malware infection using score level fusion with Kernel Fisher Discriminant Analysis,'' Proceedings of the IEEE Global Conference on Consumer Electronics (GCCE), pp.536-537, October 2013.
-\end{enumerate}
 
 * Posters
 	* Mitsuhiro Hatada and Matthew Scholl, ``Poster: Method for Effective Measurement, Labeling, and Classification of Botnet C2s for Predicting Attacks,'' The 27th Annual Network and Distributed System Security Symposium 2020, February 2020.
@@ -69,7 +68,7 @@
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' Proceedings of the Computer Security Symposium 2021 (CSS2021), pp.631-638, October 2021 (in Japanese).
 	* Shuvo Bardhan, Mitsuhiro Hatada, James J. Filliben, Douglas C. Montgomery, and Alexander Jia, ``An Evaluation Design for Comparing Netflow Based Network Anomaly Detection Systems Using Synthetic Malicious Traffic,'' White Paper NIST Technical Note (TN) 2142, March 2021.
 	* Masato Terada, Mitsuaki Akiyama, Takahiro Matsuki, Mitsuhiro Hatada, and Yoishi Shinoda, ``MWS Datasets for Anti-Malware Research \~Contribution to the community and its challenge\~,'' IPSJ SIG Technical Report, vol.2020-IFAT-139, no.8, pp.1-6, July 2020 (in Japanese).
-	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Investigation of Black-Box Based Evasion Attack Method Against Android Malware Classifier,'' Proceedings of the Computer Security Symposium 2019 (CSS2019), pp.xx-xx, October 2019 (in Japanese).
+	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Investigation of Black-Box Based Evasion Attack Method Against Android Malware Classifier,'' Proceedings of the Computer Security Symposium 2019 (CSS2019), pp.1004-1010, October 2019 (in Japanese).
 	* Shoko Araki, Takahiro Kasama, Hiromitsu Oshiba, Daiki Chiba, Mitsuhiro Hatada, Masato Terada, ``Datasets for Anti-Malware Research \~MWS Datasets 2019\~,'' IPSJ SIG Technical Report, vol.2019-CSEC-86, no.8, pp.1-8, July 2019 (in Japanese).
 	* Yuta Takata, Masato Terada, Takahiro Matsuki, Takahiro Kasama, Shoko Araki, Mitsuhiro Hatada, ``Datasets for Anti-Malware Research \~MWS Datasets 2018\~,'' IPSJ SIG Technical Report, vol.2018-CSEC-82, no.38, pp.1-8, July 2018 (in Japanese).
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Detecting Malware-Infected Hosts Based on the Variability of HTTP Header Fields,'' Proceedings of the Computer Security Symposium 2016 (CSS2016), pp.632-639, October 2016 (in Japanese).
