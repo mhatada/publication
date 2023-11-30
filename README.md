@@ -2,6 +2,7 @@
 	* Mitsuhiro Hatada and Tatsuya Mori, ``CLAP: Classification of Android PUAs by Similarity of DNS Queries,'' IEICE Transactions on Information and Systems, vol.E103-D, no.2, pp.265-275, February 2020.
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Finding New Varieties of Malware with the Classification of Network Behavior,'' IEICE Transactions on Information and Systems, vol.E100-D, no.8, pp.1691-1702, August 2017.
 	* Mitsuhiro Hatada, Mitsuaki Akiyama, Takahiro Matsuki, and Takahiro,Kasama, ``Empowering Anti-malware Research in Japan by Sharing the MWS Datasets,'' Journal of Information Processing, vol.23, no.5, pp.579-588, September 2015.
+	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' IPSJ Journal, vol.65, no.2, pp.xxx-xxx (in press).
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' IPSJ Journal, vol.63, no.9, pp.1440-1457, September 2022 (in Japanese).
 	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of Malware Infection based on the Similarity between Malware Infected traffic,'' International Journal of informatics Society, vol.11, no.3, pp.149-157, July 2020.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto,``Detecting Malware-infected Devices Using the HTTP Header Patterns,'' IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1370-1379, May 2018.
@@ -36,6 +37,7 @@
 	* Mitsuhiro Hatada, ``[Chair] Cyber-range training for reinforcing skills and leadership,'' Interop Tokyo 2016 Premium Conference, June 2016 (in Japanese).
 	* Mitsuhiro Hatada, ``企業における教育の実際〜セキュリティ人材の育成〜'', Internet Week 2015 IP Meeting, November 2015 (in Japanese).
 	* Mitsuhiro Hatada, ``[Invited Talk] Observe and Act against DDoS and Malware,'' 2015 10th Asia Joint Conference on Information Security (AsiaJCIS 2015), May 2015.
+	* Atsushi Kanda, Yuichi Tsuboi, Yoshiaki Tobioka, and Mitsuhiro Hatada, ``ランダムサブドメイン攻撃において事業者として行なった対策と解析について'', Internet Week 2023, November 2023 (in Japanese).
 	* Bo Sun, Mitsuaki Akiyama, Takeshi Yagi, Mitsuhiro Hatada, and Tatsuya Mori, ``[Invited Talk] Automatic Generation of URL Blacklist,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``[Invited Talk] Detecting malware-infected hosts using HTTP fingerprints,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
 
@@ -64,6 +66,7 @@
 	* Mitsuhiro Hatada, Hirofumi Nakakoji, and Masaya Yamagata, ``Proposal of network operation support system for secure Intranet operation,'' IPSJ SIG Technical Reports, vol.2006-CSEC-032, no.26, pp.135-140, March 2006 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``A Study on Digital Watermarking Based on Process of Speech Prodcution,'' IPSJ SIG Technical Reports, vol.2002-CSEC-017, pp.37-42, May 2002 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Makoto Kondo, and Naohisa Komatsu, ``Digital Watermarking Based on Process of Speech Production Using G.729 Parameter,'' Proceedings of the IEICE General Conference, pp.191, March 2003 (in Japanese).
+	* Yu Arai, Masaki Kamizono, Yuma Kurogome, and Mitsuhiro Hatada (Moderator), ``(Panel Discussion) サイバーセキュリティのパラダイムシフト'', MWS Special Session at Computer Security Symposium 2023 (CSS2023), November 2023 (in Japanese).
 	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' Proceedings of the Computer Security Symposium 2022 (CSS2022), pp.1033-1040, October 2022 (in Japanese). (MWS2022 Student Paper Award)
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' Proceedings of the Computer Security Symposium 2021 (CSS2021), pp.631-638, October 2021 (in Japanese).
 	* Shuvo Bardhan, Mitsuhiro Hatada, James J. Filliben, Douglas C. Montgomery, and Alexander Jia, ``An Evaluation Design for Comparing Netflow Based Network Anomaly Detection Systems Using Synthetic Malicious Traffic,'' White Paper NIST Technical Note (TN) 2142, March 2021.
