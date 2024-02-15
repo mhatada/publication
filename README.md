@@ -2,7 +2,7 @@
 	* Mitsuhiro Hatada and Tatsuya Mori, ``CLAP: Classification of Android PUAs by Similarity of DNS Queries,'' IEICE Transactions on Information and Systems, vol.E103-D, no.2, pp.265-275, February 2020.
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Finding New Varieties of Malware with the Classification of Network Behavior,'' IEICE Transactions on Information and Systems, vol.E100-D, no.8, pp.1691-1702, August 2017.
 	* Mitsuhiro Hatada, Mitsuaki Akiyama, Takahiro Matsuki, and Takahiro,Kasama, ``Empowering Anti-malware Research in Japan by Sharing the MWS Datasets,'' Journal of Information Processing, vol.23, no.5, pp.579-588, September 2015.
-	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' IPSJ Journal, vol.65, no.2, pp.xxx-xxx (in press).
+	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' IPSJ Journal, vol.65, no.2, pp.588-601 (in Japanese).
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' IPSJ Journal, vol.63, no.9, pp.1440-1457, September 2022 (in Japanese).
 	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of Malware Infection based on the Similarity between Malware Infected traffic,'' International Journal of informatics Society, vol.11, no.3, pp.149-157, July 2020.
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto,``Detecting Malware-infected Devices Using the HTTP Header Patterns,'' IEICE Transactions on Information and Systems, vol.E101-D, no.5, pp.1370-1379, May 2018.
