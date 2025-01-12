@@ -28,6 +28,7 @@
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
 
 * Talks
+	* Mitsuhiro Hatada, ``うちのセキュリティは大丈夫か？'', docomo business Forum'24, October 2024.
 	* Mitsuhiro Hatada, ``Leveraging Network Analytics for Active Cyber Defense,'' Microsoft Digital Crimes Consortium 2024, March 2024.
 	* Mitsuhiro Hatada, ``[Keynote] Measurement and Automation for NVD Analysis ～NIST Guest Researcherとしての挑戦～,'' NCA Annual Conference 2021, December 2021.
 	* Mitsuhiro Hatada, ``Building a Red Team in a Global Conglomerate,'' LookingGlass Momentum Summit 2019, October 2019.
