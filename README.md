@@ -28,6 +28,7 @@
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
 
 * Talks
+	* Mitsuhiro Hatada, et al., ``[Panel] グループ再編とセキュリティ連携'', docomo business Forum'25, October 2025.
 	* Mitsuhiro Hatada and Rihoko Nishino, ``Uncovering the Invisible: Retrospective Analysis of Living Off the Land Techniques,'' Microsoft Digital Crimes Consortium 2025, March 2025.
 	* Mitsuhiro Hatada, ``CSIRTにおけるゼロトラストの光と闇'', HAISLサイバーセキュリティセミナー, February 2025.
 	* Mitsuhiro Hatada, ``シン・MWS ～マルウェアとサイバー攻撃対策研究人材育成ワークショップ～'', Computer Security Symposium 2024 (CSS2024), October 2024.
@@ -73,6 +74,7 @@
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``A Study on Digital Watermarking Based on Process of Speech Prodcution,'' IPSJ SIG Technical Reports, vol.2002-CSEC-017, pp.37-42, May 2002 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Makoto Kondo, and Naohisa Komatsu, ``Digital Watermarking Based on Process of Speech Production Using G.729 Parameter,'' Proceedings of the IEICE General Conference, pp.191, March 2003 (in Japanese).
 	* Yu Arai, Masaki Kamizono, Yuma Kurogome, and Mitsuhiro Hatada (Moderator), ``(Panel Discussion) サイバーセキュリティのパラダイムシフト'', MWS Special Session at Computer Security Symposium 2023 (CSS2023), November 2023 (in Japanese).
+	* Yuto Matsumoto, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Defense Method Using SHAP and Multi-Task Learning Against Evasion Attacks on Android Malware Detectors,'' Proceedings of the Computer Security Symposium 2025 (CSS2025), pp.xxx-xxx, October 2025 (in Japanese).
 	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' Proceedings of the Computer Security Symposium 2022 (CSS2022), pp.1033-1040, October 2022 (in Japanese). (MWS2022 Student Paper Award)
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' Proceedings of the Computer Security Symposium 2021 (CSS2021), pp.631-638, October 2021 (in Japanese).
 	* Shuvo Bardhan, Mitsuhiro Hatada, James J. Filliben, Douglas C. Montgomery, and Alexander Jia, ``An Evaluation Design for Comparing Netflow Based Network Anomaly Detection Systems Using Synthetic Malicious Traffic,'' White Paper NIST Technical Note (TN) 2142, March 2021.
