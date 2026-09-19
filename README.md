@@ -2,6 +2,7 @@
 	* Mitsuhiro Hatada and Tatsuya Mori, ``CLAP: Classification of Android PUAs by Similarity of DNS Queries,'' IEICE Transactions on Information and Systems, vol.E103-D, no.2, pp.265-275, February 2020.
 	* Mitsuhiro Hatada and Tatsuya Mori, ``Finding New Varieties of Malware with the Classification of Network Behavior,'' IEICE Transactions on Information and Systems, vol.E100-D, no.8, pp.1691-1702, August 2017.
 	* Mitsuhiro Hatada, Mitsuaki Akiyama, Takahiro Matsuki, and Takahiro,Kasama, ``Empowering Anti-malware Research in Japan by Sharing the MWS Datasets,'' Journal of Information Processing, vol.23, no.5, pp.579-588, September 2015.
+	* Yuto Matsumoto, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Defense Method Using SHAP and Multi-task Learning against Evasion Attacks on Android Malware Detectors,'' IPSJ Journal, vol.67, no.9, pp.1361-1385 (in Japanese).
 	* Kota Shimada, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Evasion attacks against Android malware detectors using SHAP values,'' IPSJ Journal, vol.65, no.2, pp.588-601 (in Japanese).
 	* Kazuki Furukawa, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Effective evasion attack using packing against Android malware classifiers,'' IPSJ Journal, vol.63, no.9, pp.1440-1457, September 2022 (in Japanese).
 	* Masatsugu Ichino, Yuuki Mori, Mitsuhiro Hatada, and Hiroshi Yoshiura, ``Detection of Malware Infection based on the Similarity between Malware Infected traffic,'' International Journal of informatics Society, vol.11, no.3, pp.149-157, July 2020.
@@ -28,6 +29,8 @@
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
 
 * Talks
+	* Mitsuhiro Hatada, ``しのびよる脅威への備え〜通信からすばやく検知・調査する最新セキュリティ対策とは〜'', セキュリティ＆DXイノベーションフォーラム2026, July 2026.
+	* Mitsuhiro Hatada, ``企業CSIRTにおける脅威インテリジェンスと生成AIの活用'', 兵庫県立大学サイバーセキュリティ経営戦略セミナー, December 2025.
 	* Mitsuhiro Hatada, et al., ``[Panel] グループ再編とセキュリティ連携'', docomo business Forum'25, October 2025.
 	* Mitsuhiro Hatada and Rihoko Nishino, ``Uncovering the Invisible: Retrospective Analysis of Living Off the Land Techniques,'' Microsoft Digital Crimes Consortium 2025, March 2025.
 	* Mitsuhiro Hatada, ``CSIRTにおけるゼロトラストの光と闇'', HAISLサイバーセキュリティセミナー, February 2025.
