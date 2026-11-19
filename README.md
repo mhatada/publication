@@ -29,6 +29,7 @@
 	* Masaki Shimura, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``Analysis of Spam Mail Containing Malicious Attachments using Spamtrap,'' The 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015) Poster session, November 2015.
 
 * Talks
+	* Mitsuhiro Hatada and Seiji Shiro, ``うちのセキュリティは大丈夫か？ ～AI vs AIの時代に企業が備えるべきこと～'', docomo business Forum'26, October 2025.
 	* Mitsuhiro Hatada, ``しのびよる脅威への備え〜通信からすばやく検知・調査する最新セキュリティ対策とは〜'', セキュリティ＆DXイノベーションフォーラム2026, July 2026.
 	* Mitsuhiro Hatada, ``企業CSIRTにおける脅威インテリジェンスと生成AIの活用'', 兵庫県立大学サイバーセキュリティ経営戦略セミナー, December 2025.
 	* Mitsuhiro Hatada, et al., ``[Panel] グループ再編とセキュリティ連携'', docomo business Forum'25, October 2025.
@@ -51,6 +52,7 @@
 	* Sho Mizuno, Mitsuhiro Hatada, Tatsuya Mori, and Shigeki Goto, ``[Invited Talk] Detecting malware-infected hosts using HTTP fingerprints,'' the network security workshop of the 42nd Asia Pacific Advanced Network meeting (APAN42), August 2016.
 
 * Books
+	* NTTドコモビジネス, ``AIインフラ2030　勝ち残る企業の絶対条件'', 日経BP, 2026.
 	* (執筆協力), ``情報セキュリティ白書2021'', 独立行政法人情報処理推進機構, 2021.
 	* 佐々木良一 (監修), 電子情報通信学会 (編集), ``現代電子情報通信選書『知識の森』 ネットワークセキュリティ'', オーム社, 2014.
 	* ＮＴＴコミュニケーションズ インターネット検定委員会ガイドライン策定部会, ``NTTコミュニケーションズ インターネット検定 .com Master ★★★2012公式テキスト'', エヌティティ出版, 2012.
@@ -75,6 +77,7 @@
 	* Mitsuhiro Hatada and Tomohiro Tanaka, ``A study on Distributed Security Countermeasures for Intranet,'' Proceedings of the Computer Security Symposium 2006 (CSS2006), pp.1-6, October 2006 (in Japanese).
 	* Mitsuhiro Hatada, Hirofumi Nakakoji, and Masaya Yamagata, ``Proposal of network operation support system for secure Intranet operation,'' IPSJ SIG Technical Reports, vol.2006-CSEC-032, no.26, pp.135-140, March 2006 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Naohisa Komatsu, and Yasushi Yamazaki, ``A Study on Digital Watermarking Based on Process of Speech Prodcution,'' IPSJ SIG Technical Reports, vol.2002-CSEC-017, pp.37-42, May 2002 (in Japanese).
+	* Yusei Tsuchiya, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``A Diﬀusion Model-Based Evasion Attack Method against Android Malware Detectors,'' Proceedings of the Computer Security Symposium 2026 (CSS2026), pp.xxx-xxx, October 2026 (in Japanese).
 	* Mitsuhiro Hatada, Toshiyuki Sakai, Makoto Kondo, and Naohisa Komatsu, ``Digital Watermarking Based on Process of Speech Production Using G.729 Parameter,'' Proceedings of the IEICE General Conference, pp.191, March 2003 (in Japanese).
 	* Yu Arai, Masaki Kamizono, Yuma Kurogome, and Mitsuhiro Hatada (Moderator), ``(Panel Discussion) サイバーセキュリティのパラダイムシフト'', MWS Special Session at Computer Security Symposium 2023 (CSS2023), November 2023 (in Japanese).
 	* Yuto Matsumoto, Mitsuhiro Hatada, Hiroshi Yoshiura, and Masatsugu Ichino, ``Defense Method Using SHAP and Multi-Task Learning Against Evasion Attacks on Android Malware Detectors,'' Proceedings of the Computer Security Symposium 2025 (CSS2025), pp.xxx-xxx, October 2025 (in Japanese).
